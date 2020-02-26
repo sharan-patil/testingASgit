@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         String emailId = emailTextBox.getText().toString();
         String emailTitle = titleTextBox.getText().toString();
 
+        emailId.toUpperCase();
 
     }
 }
