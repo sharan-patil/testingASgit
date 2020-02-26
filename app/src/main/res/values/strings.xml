@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remind My Email</string>
+    <string name="emailPromptBox">Email:</string>
+    <string name="emailTextBox">Enter here</string>
+    <string name="emailTitleBox">Remind About:</string>
+    <string name="titleTextBox">Enter here</string>
+    <string name="button">Go</string>
+</resources>
